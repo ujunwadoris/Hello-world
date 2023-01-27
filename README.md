@@ -1,2 +1,2 @@
 # Hello-world
-Upon completing this web design course i will like to gain the technical knowledge and tools to creats a quality web site aswell as gaining a better understanding of mechanical element of modern day to day web designing.
+Upon completion of this web design course, i will like to gain the technical knowledge and tools to create a quality web site. Also to gain a better understanding of mechanical element of modern day to day web designing.
